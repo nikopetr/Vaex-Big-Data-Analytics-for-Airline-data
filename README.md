@@ -9,7 +9,7 @@ The main part of the work focuses on the exploration a big dataset of 17 GB. Spe
 
 In addition, in this project the Out-of-Core DataFrames Python library [Vaex](https://vaex.io/docs/index.html) is employed, in order to visualize, explore acalculate statistics of this big tabular dataset.
 
-The goal of this project is to utilize [Vaex](https://vaex.io/docs/index.html) to perform an Exploratory Data Analysis (EDA), as well as to predict the arrival delay of a flight (regression task).
+The goal of this project is to utilize [Vaex](https://vaex.io/docs/index.html) to perform an Exploratory Data Analysis (EDA), as well as to predict the arrival delay of a flight using Machine Learning models (regression task).
 
 
 ## What is Vaex and why Vaex?
